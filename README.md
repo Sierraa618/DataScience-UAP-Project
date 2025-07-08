@@ -112,8 +112,8 @@ Undergraduate Academic Project (UAP)
 **Completed**  
 All research and presentation materials submitted for academic credit. The final presentation showing the completed showing of our findings is linked below. 
 
+[UAP Analysis Presentation.pdf](https://github.com/user-attachments/files/21112105/UAP.Analysis.Presentation.pdf)
 
-[Try Magic Design.pdf](https://github.com/user-attachments/files/21112088/Try.Magic.Design.pdf)
 
 
 
