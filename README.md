@@ -110,8 +110,10 @@ Undergraduate Academic Project (UAP)
 ## ✅ Project Status
 
 **Completed**  
-All research and presentation materials submitted for academic credit. While working files are no longer stored, this repository documents the workflow and findings for review and portfolio use.
+All research and presentation materials submitted for academic credit. The final presentation showing the completed showing of our findings is linked below. 
 
+
+[Try Magic Design.pdf](https://github.com/user-attachments/files/21112088/Try.Magic.Design.pdf)
 
 
 
